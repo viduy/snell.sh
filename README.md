@@ -1,6 +1,8 @@
-## 适用于64位Debian等使用apt-get安装软件包的系统。
-## 运行完毕后屏幕显示port以及psk，按照标准填入Surge即可。
-# 请使用root用户运行
+适用于 64 位 Ubuntu、Deian 等使用 apt-get 安装软件包的系统。
+脚本运行完毕后，会显示 port 以及 psk，按照标准填入 Surge 即可。
+
+
+** 请使用root用户运行 **
 
 ```
 wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/primovist/snell.sh/master/snell.sh
